@@ -72,7 +72,7 @@
   },
   "showMdxFilesInExplorer": false,
   "processBackgroundFileChanges": true,
-  "syncDraftDate": false,
+  "syncDraftDate": true,
   "draftDetectionMode": "property",
   "draftProperty": "draft",
   "draftLogic": "true-is-draft",

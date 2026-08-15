@@ -210,6 +210,55 @@
       "ariaLabel": "Show search filter",
       "type": "external",
       "hidden": false
+    },
+    {
+      "id": "external-nouvelle-note",
+      "name": "Nouvelle note",
+      "ariaLabel": "Nouvelle note",
+      "type": "external",
+      "hidden": false
+    },
+    {
+      "id": "external-nouveau-dossier",
+      "name": "Nouveau dossier",
+      "ariaLabel": "Nouveau dossier",
+      "type": "external",
+      "hidden": false
+    },
+    {
+      "id": "external-modifier-l-ordre-de-tri",
+      "name": "Modifier l'ordre de tri",
+      "ariaLabel": "Modifier l'ordre de tri",
+      "type": "external",
+      "hidden": false
+    },
+    {
+      "id": "external-auto-rev-ler-le-fichier-actuel",
+      "name": "Auto-revéler le fichier actuel",
+      "ariaLabel": "Auto-revéler le fichier actuel",
+      "type": "external",
+      "hidden": false
+    },
+    {
+      "id": "external-tout-d-velopper",
+      "name": "Tout développer",
+      "ariaLabel": "Tout développer",
+      "type": "external",
+      "hidden": false
+    },
+    {
+      "id": "external-afficher-le-filtre-de-recherche",
+      "name": "Afficher le filtre de recherche",
+      "ariaLabel": "Afficher le filtre de recherche",
+      "type": "external",
+      "hidden": false
+    },
+    {
+      "id": "external-tout-r-duire",
+      "name": "Tout réduire",
+      "ariaLabel": "Tout réduire",
+      "type": "external",
+      "hidden": false
     }
   ],
   "nativeExplorerButtonColors": {},

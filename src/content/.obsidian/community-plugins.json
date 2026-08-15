@@ -1,5 +1,4 @@
 [
-  "astro-modular-settings",
   "bases-cms",
   "editing-toolbar",
   "image-manager",
@@ -15,7 +14,6 @@
   "ui-tweaker",
   "obsidian42-brat",
   "obsidian-git",
-  "vault-cms",
   "file-name-history",
   "vault-nickname"
 ]
